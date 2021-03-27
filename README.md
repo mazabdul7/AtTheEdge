@@ -1,7 +1,7 @@
 # Implementing Machine Learning at the Edge - A BEng Project
 This is the repository for my project. Here the associated files with the project will be published, alongside any script descriptions that will be required to allow reproducability of the project. Only final scripts are included. Intermediatery scripts are not published.   
   
-The project runs on TensorFlow 2.3.1 so please ensure this is the version used!    
+The project runs on TensorFlow 2.3.1 so please ensure this is the version used! Please also install the libraries used in the scripts on your Jetson device. Google is your friend here. :)    
   
 Final demonstration video can be found here: https://www.youtube.com/watch?v=mZBnqr2PrLE  
 Sendr web-application for model transfer GitHub: https://github.com/mazabdul7/Sendr    
