@@ -31,8 +31,8 @@ The final scripts developed for WasteNet can be found above. The training Jupyte
 This is the training notebook run on Google Colab. This notebook is used to train, fine-tune and test the accuracy of models. It is commented and can be followed to reproduce the models.
 
 ### main.py
-This is the main inference script run on the Jetson Nano. This script loads the TensorRT model and initialises the Raspberry PI camera module and servomotors. It then runs inference, displays the output on the screen and sends signals to the Servos accordingly.(Note the model may take up to 7 minutes to load)    
-To run this ensure all required modules are installed on the Jetson Nano. The required modules are listed above.
+This is the main inference script run on the Jetson Nano. This script loads the TensorRT model and initialises the Raspberry PI camera module and servomotors. It then runs inference, displays the output on the screen and sends signals to the Servos accordingly. (Note the model may take up to 7 minutes to load)    
+To run this ensure all required modules are installed on the Jetson Nano.
 
 ### manual_acceleration.py
 This is the TensorRT acceleration script. The model to be accelerated must be in SavedModel format. If needed, use Keras to load the .h5 model file and then save it as a SavedModel file. The script is already configured to accelerate the model for the fastest configuration. (Note: This script is for manual acceleration only, if pulling an update from Sendr run the update.py instead)
