@@ -1,7 +1,8 @@
 # Implementing Machine Learning at the Edge - A BEng Project
-This is the repository for my project. Here the associated files with the project will be published, alongside any script descriptions that will be required to allow reproducability of the project. The project runs on TensorFlow 2.3.1 so please ensure this is the version used!   
+This is the repository for my project. Here the associated files with the project will be published, alongside any script descriptions that will be required to allow reproducability of the project.   
+The project runs on TensorFlow 2.3.1 so please ensure this is the version used!     
 Final demonstration video can be found here: https://www.youtube.com/watch?v=mZBnqr2PrLE  
-Sendr web-application for model transfer GitHub: https://github.com/mazabdul7/Sendr  
+Sendr web-application for model transfer GitHub: https://github.com/mazabdul7/Sendr    
 TensorFlow Guide: https://www.tensorflow.org/guide
 
 ## Model and Dataset Files
