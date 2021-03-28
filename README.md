@@ -27,7 +27,11 @@ The drive breakdown is as follows:
 - dataYoupentSplit_Mixed.zip - Mixed training dataset (TrashNet + IBM)
 
 ## Scripts
-The final scripts developed for WasteNet can be found above. The training Jupyter notebook is also provided so that results can be reproduced. Each scripts description is given below.
+The final scripts developed for WasteNet can be found above. The training Jupyter notebook is also provided so that results can be reproduced. Each scripts description is given below. Some important tutorials to install libraries on the Jetson Nano can be found below too.
+- Setting up camera with Jetson: https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/
+- Setting up servomotors with Jetson: https://www.jetsonhacks.com/2019/07/22/jetson-nano-using-i2c/
+- Installing TensorFlow: https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html (Ensure 2.3.0 is installed not the latest!)
+
 
 ### Training.ipynb
 This is the training notebook run on Google Colab. This notebook is used to train, fine-tune and test the accuracy of models. It is commented and can be followed to reproduce the models.
