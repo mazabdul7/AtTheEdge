@@ -1,4 +1,5 @@
 # Implementing Machine Learning at the Edge - A BEng Project
+![Poster of WasteNet](https://github.com/mazabdul7/AtTheEdge/blob/main/presentatinPIC.png)
 This is the repository for my project. Here the associated files with the project will be published, alongside any script descriptions that will be required to allow reproducability of the project. Only final scripts are included. Intermediatery scripts are not published.   
   
 The project runs on TensorFlow 2.3.1 so please ensure this is the version used! Please also install the libraries used in the scripts on your Jetson device. Google is your friend here. :)    
