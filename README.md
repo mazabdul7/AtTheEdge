@@ -17,7 +17,8 @@ The drive breakdown is as follows:
 - EfficientNetB0-Default.h5 - First developed WasteNet model.
 - EfficientNetB0-Small.h5 - WasteNet model at 75% resolution.
 - EfficientNetB0-PureIBM.h5 - WasteNet model trained purely on IBM dataset.
-- EfficientNetB0-IBM.h5 - WasteNet model trained on mixed TrashNet & IBM dataset.
+- EfficientNetB0-IBM.h5 - WasteNet model trained on mixed TrashNet & IBM dataset (This is the final model used in the demo).
+#### Extra model files used for experimentation
 - EfficientNetB0_FixRes (Trained on TF 2.4.1 - Not usable in Jetson Acceleration Script) - New preliminary WasteNet model with FixRes implementation (Future work experimentation) (https://proceedings.neurips.cc/paper/2019/file/d03a857a23b5285736c4d55e0bb067c8-Paper.pdf)
 ### Datasets (Pre-split)
 - dataYoupengSplit.zip - TrashNet training dataset
