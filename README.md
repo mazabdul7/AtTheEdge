@@ -23,9 +23,6 @@ The drive breakdown is as follows:
 ### Datasets (Pre-split)
 - dataYoupengSplit.zip - TrashNet training dataset
 - testtrashnet.zip - TrashNet test-set
-- pureibm.zip - IBM training dataset
-- testibm.zip - IBM test-set
-- dataYoupentSplit_Mixed.zip - Mixed training dataset (TrashNet + IBM)
 
 ## Scripts
 The final scripts developed for WasteNet can be found above. The training Jupyter notebook is also provided so that results can be reproduced. Each scripts description is given below. Some important tutorials to install libraries on the Jetson Nano can be found below too.
