@@ -10,7 +10,7 @@ Sendr web-application for model transfer GitHub: https://github.com/mazabdul7/Se
 TensorFlow Guide: https://www.tensorflow.org/guide
 
 ## Model and Dataset Files
-All developed models .h5 files can be found here. Also included are the split datasets used for training in accordance with the 72/18/10 split used in the project.  
+All developed models .h5 files can be found here.  
 https://drive.google.com/drive/folders/1am20SxrEkWRJFyJPXvZrTgII-ZZoe2yj?usp=sharing    
 The drive breakdown is as follows: 
 ### Model Files
