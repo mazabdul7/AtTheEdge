@@ -1,4 +1,4 @@
-# Implementing Machine Learning at the Edge - A UCL BEng Project
+# Implementing Machine Learning at the Edge - A UCL BEng Project (REPO IS UNDER CONSTRUCTION WITH MANY MISSING FILES)
 ![Poster of WasteNet](https://github.com/mazabdul7/AtTheEdge/blob/main/presentatinPIC.png)
 This is the repository for my project. Here the associated files with the project will be published, alongside any script descriptions that will be required to allow reproducability of the project. Only final scripts are included. Intermediatery scripts are not published.   
   
